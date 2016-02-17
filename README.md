@@ -1,0 +1,2 @@
+# Voice_Command_Driven_VR
+Currently we are working on a voice-command driven Virtual Reality project. The attachment is the proposal we have for the project. We are planning for joining the 2016 ACM SIGGRAPH, the Real Time Live Section. The date of the conference will be 24-28 July, Anaheim, California. We are looking for more programmers to join our team. So if you are interested, please just comment below, or send me emails for more detailed information( ling@psu.edu).
